@@ -4,6 +4,7 @@ class HelloWorld {
         
         System.out.println("Hello Java from Jenkins!");
         // home/xs242-saykun/Desktop/JenkinsJava/HelloWorld.java
+        System.out.println("second");
 
     }
 }
